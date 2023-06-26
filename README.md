@@ -2,6 +2,7 @@
 <p>Web & discord bot developer</p>
 <hr>
 🌱 - Hey, <a href="https://discord.gg/Nd4J57QGaC" type="__blank">My discord server</a>
+
 ![](https://komarev.com/ghpvc/?username=mwqsdth&color=white)
 <!---
 my colorful world 🌈
